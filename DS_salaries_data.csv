@@ -1,0 +1,1419 @@
+cities,state,experience_level,mean_salary
+Broomfield,CO,Intermediate,82200.0
+Detroit,MI,Senior,105000.0
+Albany,NY,Intermediate,70000.0
+Cascades,VA,Intermediate,60000.0
+Houston,TX,Intermediate,112500.0
+Arlington,VA,Intermediate,120000.0
+Boca Raton,FL,Intermediate,97500.0
+Paterson,NJ,Intermediate,92500.0
+Richmond,VA,Intermediate,55000.0
+Newark,DE,Intermediate,52500.0
+San Francisco County,CA,Senior,190000.0
+New York,NY,Senior,230000.0
+Brooklyn,NY,Intermediate,70833.0
+Los Angeles,CA,Intermediate,115510.0
+Madison,WI,Senior,197000.0
+Kansas City,MO,Intermediate,64450.0
+Houston,TX,Intermediate,130000.0
+Grapevine,TX,Senior,145000.0
+Los Angeles,CA,Intermediate,100445.0
+Fairfield,CA,Senior,156880.435
+San Francisco,CA,Senior,183500.0
+Austin,TX,Senior,105000.0
+Arlington,WA,Intermediate,82500.0
+Stanford,CA,Intermediate,60555.0
+Reston,VA,Senior,199500.0
+Redmond,WA,Senior,207900.0
+Kansas City,MO,Senior,172500.0
+McLean,VA,Intermediate,140000.0
+Charlotte,NC,Intermediate,77000.0
+Wayne,PA,Intermediate,135000.0
+New York,NY,Senior,85000.0
+Durham,NC,Senior,184350.0
+Richland,WA,Senior,177000.0
+San Jose,CA,Senior,191000.0
+Chicago,IL,Intermediate,120000.0
+Annapolis,MD,Senior,83000.0
+Topeka,KS,Senior,83000.0
+Dover,DE,Senior,83000.0
+West Hollywood,CA,Intermediate,162000.0
+Juneau,AK,Senior,83000.0
+Quincy,MA,Intermediate,92500.0
+New York,NY,Senior,208000.0
+Tempe,AZ,Senior,153797.5
+New York,NY,Senior,243000.0
+St Louis,MO,Senior,153797.5
+Santa Clara,CA,Intermediate,98000.0
+Modesto,CA,Intermediate,98000.0
+New York,NY,Intermediate,113670.0
+Oakland,CA,Senior,107500.0
+Seattle,WA,Senior,198000.0
+Austin,TX,Senior,191800.0
+Bellevue,WA,Intermediate,179100.0
+East Palo Alto,CA,Intermediate,169300.0
+Austin,TX,Intermediate,169300.0
+Chicago,IL,Senior,180950.0
+Sunnyvale,CA,Senior,198000.0
+Seattle,WA,Senior,153550.0
+Seattle,WA,Senior,153550.0
+Bellevue,WA,Senior,175200.0
+Austin,TX,Intermediate,169300.0
+Austin,TX,Intermediate,154700.0
+Seattle,WA,Senior,211950.0
+Nashville,TN,Intermediate,152300.0
+Bellevue,WA,Intermediate,198000.0
+Nashville,TN,Senior,200950.0
+Seattle,WA,Intermediate,162200.0
+Seattle,WA,Senior,153550.0
+Seattle,WA,Senior,175200.0
+Reno,NV,Intermediate,95000.0
+Hayward,CA,Senior,235000.0
+Altamonte Springs,FL,Senior,147500.0
+Stamford,CT,Senior,147500.0
+Denver,CO,Junior,99500.0
+Torrance,CA,Junior,80000.0
+Kirkland,WA,Junior,102500.0
+Marina del Rey,CA,Intermediate,62500.0
+New York,NY,Intermediate,61200.0
+San Diego,CA,Senior,196250.0
+Los Angeles,CA,Intermediate,126955.0
+San Jose,CA,Senior,195000.0
+Ann Arbor,MI,Senior,95000.0
+Atlanta,GA,Intermediate,178000.0
+Los Angeles,CA,Senior,236500.0
+East Lansing,MI,Intermediate,105000.0
+Ludington,MI,Senior,107500.0
+Atlanta,GA,Senior,122000.0
+Bellevue,WA,Intermediate,165550.0
+Grand Rapids,MI,Intermediate,90000.0
+Seattle,WA,Senior,95200.0
+Bellevue,WA,Senior,119100.0
+Seattle,WA,Senior,200000.0
+Seattle,WA,Senior,250000.0
+Irving,TX,Intermediate,66640.0
+Reston,VA,Senior,167082.5
+Chesapeake,VA,Senior,144345.0
+Durham,NC,Intermediate,80779.5
+Reston,VA,Intermediate,252500.0
+Costa Mesa,CA,Intermediate,200000.0
+Fort Worth,TX,Intermediate,111000.0
+Austin,TX,Intermediate,97250.0
+Houston,TX,Senior,139800.0
+Phoenix,AZ,Intermediate,117500.0
+Boston,MA,Senior,116250.0
+Charlotte,NC,Senior,200000.0
+Riverwoods,IL,Senior,139800.0
+Everett,WA,Senior,120000.0
+Bloomington,MN,Intermediate,88000.0
+New York,NY,Senior,170000.0
+Bentonville,AR,Intermediate,100000.0
+Boston,MA,Senior,160000.0
+New York,NY,Intermediate,160000.0
+New York,NY,Senior,112500.0
+Boston,MA,Senior,250000.0
+Dana Point,CA,Senior,137500.0
+Bellevue,WA,Senior,270850.0
+San Mateo,CA,Senior,270850.0
+Little Rock,AR,Intermediate,207550.0
+New York,NY,Intermediate,90000.0
+Costa Mesa,CA,Senior,200000.0
+Atlanta,GA,Intermediate,150600.0
+Costa Mesa,CA,Senior,150000.0
+Rochester,NY,Intermediate,75000.0
+McLean,VA,Senior,247000.0
+Oklahoma City,OK,Intermediate,77500.0
+Stamford,CT,Senior,125000.0
+Rancho Santa Margarita,CA,Senior,115000.0
+San Jose,CA,Intermediate,165450.0
+San Francisco,CA,Senior,247750.0
+Springfield,VA,Intermediate,167500.0
+Silver Spring,MD,Intermediate,112000.0
+New York,NY,Senior,182500.0
+Baltimore,MD,Senior,110000.0
+Sunnyvale,CA,Intermediate,200000.0
+Los Gatos,CA,Intermediate,410000.0
+New York,NY,Intermediate,100000.0
+Richmond,VA,Senior,122500.0
+Philadelphia,PA,Senior,93050.0
+Austin,TX,Senior,167500.0
+Seattle,WA,Intermediate,48000.0
+Denver,CO,Intermediate,70000.0
+Chattanooga,TN,Senior,205000.0
+Palo Alto,CA,Senior,92000.0
+Costa Mesa,CA,Senior,137500.0
+San Mateo,CA,Senior,270850.0
+Costa Mesa,CA,Senior,151500.0
+San Francisco,CA,Senior,202500.0
+Cleveland,OH,Intermediate,100000.0
+Middletown,NJ,Senior,148500.0
+Seattle,WA,Intermediate,141450.5
+Chandler,AZ,Senior,174100.0
+Seattle,WA,Intermediate,99900.0
+Indianapolis,IN,Intermediate,134925.0
+San Francisco,CA,Intermediate,134925.0
+Waterbury,CT,Senior,170000.0
+Sunnyvale,CA,Intermediate,184000.0
+Hudsonville,MI,Intermediate,90000.0
+San Francisco,CA,Intermediate,184000.0
+Canada,KY,Senior,129000.0
+New York,NY,Senior,100000.0
+Denver,CO,Senior,150000.0
+Fort Myers,FL,Senior,101960.0
+Bellevue,WA,Senior,193750.0
+Madison,WI,Senior,140000.0
+Bellevue,WA,Senior,153150.0
+Plano,TX,Intermediate,130995.0
+Bellevue,WA,Senior,119100.0
+Chesapeake,VA,Senior,125990.0
+Seattle,WA,Senior,213180.0
+San Antonio,TX,Senior,125990.0
+Phoenix,AZ,Senior,222545.0
+Oakland,CA,Senior,107500.0
+San Jose,CA,Senior,231600.0
+Denver,CO,Intermediate,255000.0
+Austin,TX,Senior,143350.0
+San Jose,CA,Senior,205960.0
+Seattle,WA,Intermediate,85819.5
+Los Angeles,CA,Intermediate,82500.0
+Menlo Park,CA,Intermediate,137000.0
+San Francisco,CA,Intermediate,137000.0
+Burlingame,CA,Senior,180500.0
+New York,NY,Intermediate,100000.0
+New York,NY,Intermediate,400000.0
+Warner Robins,GA,Intermediate,55000.0
+Quincy,MA,Senior,133750.0
+Glendale,CA,Senior,174750.0
+Austin,TX,Intermediate,115700.0
+Seattle,WA,Senior,200250.0
+Clayton,NC,Senior,110000.0
+Orlando,FL,Intermediate,105000.0
+Charlotte,NC,Intermediate,107500.0
+San Diego,CA,Senior,160000.0
+Portland,OR,Senior,117400.0
+New York,NY,Intermediate,142050.0
+Bethesda,MD,Intermediate,174000.0
+Orlando,FL,Intermediate,202575.0
+Chevy Chase,MD,Senior,171750.0
+Vienna,VA,Intermediate,122275.0
+Bethesda,MD,Intermediate,282500.0
+Columbia,MD,Senior,89200.0
+Berlin,CT,Intermediate,91000.0
+Charlotte,NC,Intermediate,116100.0
+Westborough,MA,Intermediate,85500.0
+Syracuse,NY,Intermediate,87500.0
+San Jose,CA,Intermediate,170900.0
+Los Angeles,CA,Intermediate,138550.0
+Seattle,WA,Intermediate,221844.0
+Bellevue,WA,Senior,210000.0
+New York,NY,Senior,214000.0
+Seattle,WA,Senior,214000.0
+San Diego,CA,Intermediate,60000.0
+Seattle,WA,Intermediate,253000.0
+New York,NY,Senior,210000.0
+San Mateo,CA,Senior,204765.5
+Menlo Park,CA,Senior,210000.0
+Kansas City,MO,Intermediate,140000.0
+Lubbock,TX,Junior,65000.0
+Mountain View,CA,Senior,245000.0
+Portland,OR,Senior,135000.0
+Teaneck,NJ,Senior,155000.0
+Irvine,CA,Senior,145000.0
+Dallas,TX,Intermediate,70050.0
+San Francisco,CA,Intermediate,201500.0
+Santa Clara,CA,Senior,212000.0
+Los Angeles,CA,Senior,115000.0
+Menlo Park,CA,Senior,286000.0
+Austin,TX,Senior,197250.0
+San Jose,CA,Intermediate,275000.0
+Los Gatos,CA,Senior,482500.0
+Louisville,KY,Intermediate,57400.0
+Mechanicsburg,PA,Intermediate,155000.0
+San Diego,CA,Senior,138800.0
+San Jose,CA,Senior,163500.0
+Grand Rapids,MI,Intermediate,77500.0
+Frisco,TX,Senior,149300.0
+Rahway,NJ,Senior,192250.0
+San Jose,CA,Intermediate,233520.0
+Seattle,WA,Intermediate,177750.0
+Los Angeles,CA,Intermediate,221000.0
+Huntsville,AL,Intermediate,79602.0
+Seattle,WA,Senior,214000.0
+Seattle,WA,Senior,202500.0
+New York,NY,Intermediate,221000.0
+Burlingame,CA,Intermediate,221000.0
+Seattle,WA,Intermediate,221000.0
+Menlo Park,CA,Intermediate,242500.0
+San Francisco,CA,Junior,265000.0
+Austin,TX,Junior,265000.0
+Menlo Park,CA,Senior,202500.0
+Los Angeles,CA,Junior,265000.0
+Redmond,WA,Intermediate,164500.0
+New York,NY,Intermediate,242500.0
+Menlo Park,CA,Senior,125000.0
+Boston,MA,Junior,265000.0
+Redmond,WA,Intermediate,137500.0
+New York,NY,Intermediate,240000.0
+New York,NY,Intermediate,400000.0
+San Diego,CA,Senior,128500.0
+San Diego,CA,Senior,130000.0
+Pittsburgh,PA,Senior,135000.0
+Boston,MA,Intermediate,125000.0
+Montgomery County,MD,Intermediate,155000.0
+Pittsburgh,PA,Senior,135000.0
+Johns Creek,GA,Intermediate,130000.0
+Myrtle Point,OR,Intermediate,82500.0
+Myrtle Point,OR,Senior,100000.0
+New York,NY,Intermediate,85000.0
+Forest Lake,MN,Intermediate,100000.0
+Boston,MA,Intermediate,90000.0
+Seattle,WA,Senior,148000.0
+Denver,CO,Senior,146500.0
+Seattle,WA,Intermediate,126000.0
+Deerfield,IL,Senior,123500.0
+Naperville,IL,Senior,92500.0
+Orange County,CA,Senior,105000.0
+New York,NY,Intermediate,147500.0
+Colorado Springs,CO,Intermediate,113456.0
+Chicago,IL,Senior,200000.0
+Chicago,IL,Senior,190000.0
+Boston,MA,Senior,190000.0
+McKinney,TX,Intermediate,80000.0
+Chicago,IL,Senior,120000.0
+Denver,CO,Senior,146500.0
+Richmond,CA,Senior,105000.0
+Poway,CA,Intermediate,120000.0
+New York,NY,Senior,85000.0
+Irvine,CA,Senior,119000.0
+New York,NY,Senior,128500.0
+San Ramon,CA,Senior,221000.0
+San Francisco,CA,Senior,119000.0
+New York,NY,Senior,88000.0
+Waukesha,WI,Senior,135000.0
+Cincinnati,OH,Intermediate,110000.0
+Houston,TX,Intermediate,97500.0
+Ridgewood,NJ,Intermediate,140000.0
+Phoenix,AZ,Intermediate,124250.0
+Chicago,IL,Senior,164000.0
+Atlanta,GA,Senior,145500.0
+Atlanta,GA,Intermediate,78950.0
+San Diego,CA,Senior,120000.0
+Seattle,WA,Intermediate,120960.0
+Everett,WA,Senior,82500.0
+New York,NY,Senior,262500.0
+Atlanta,GA,Intermediate,169000.0
+Chicago,IL,Senior,169000.0
+San Francisco,CA,Intermediate,126350.0
+Pittsburgh,PA,Senior,139750.0
+Atlanta,GA,Intermediate,126350.0
+Quantico,VA,Intermediate,125000.0
+Morrisville,NC,Intermediate,142000.0
+Houston,TX,Senior,101700.0
+New York,NY,Senior,142500.0
+Seattle,WA,Intermediate,178910.0
+Tyler,TX,Senior,135000.0
+Milwaukee,WI,Senior,163613.0
+Milwaukee,WI,Senior,157200.0
+San Jose,CA,Intermediate,242000.0
+Plano,TX,Intermediate,125990.0
+Phoenix,AZ,Senior,231395.0
+Charlotte,NC,Senior,231395.0
+Philadelphia,PA,Intermediate,120000.0
+New York,NY,Senior,204500.0
+Tampa,FL,Senior,231395.0
+San Antonio,TX,Senior,175475.0
+Peachtree Corners,GA,Senior,105000.0
+Atlanta,GA,Senior,115000.0
+Winter Garden,FL,Intermediate,100000.0
+Seattle,WA,Senior,211950.0
+Weehawken,NJ,Intermediate,110000.0
+La Plata,MD,Intermediate,108900.0
+Chicago,IL,Intermediate,85000.0
+New York,NY,Intermediate,97500.0
+Irvine,CA,Intermediate,97500.0
+Denver,CO,Intermediate,137500.0
+Houston,TX,Senior,265000.0
+Arlington,VA,Senior,102100.0
+Charlottesville,VA,Intermediate,110000.0
+Milpitas,CA,Intermediate,145000.0
+Los Angeles,CA,Intermediate,80500.0
+Woodmere,NY,Intermediate,75840.0
+Culver City,CA,Senior,290000.0
+San Diego,CA,Senior,145000.0
+Culver City,CA,Senior,300000.0
+Culver City,CA,Senior,300000.0
+Atlanta,GA,Intermediate,93950.0
+San Dimas,CA,Senior,122250.0
+Port Washington,NY,Senior,103000.0
+Brooklyn,NY,Intermediate,162500.0
+Bend,OR,Senior,116000.0
+San Francisco,CA,Intermediate,215000.0
+Irvine,CA,Junior,75000.0
+San Jose,CA,Senior,195000.0
+Bellevue,WA,Intermediate,165550.0
+McLean,VA,Senior,158300.0
+Houston,TX,Senior,222545.0
+Irving,TX,Senior,222545.0
+Austin,TX,Senior,222545.0
+New York,NY,Intermediate,82500.0
+Santa Clara,CA,Intermediate,195500.0
+Orlando,FL,Senior,65000.0
+San Diego,CA,Intermediate,185500.0
+Orlando,FL,Intermediate,48000.0
+Chicago,IL,Intermediate,125900.0
+Woonsocket,RI,Intermediate,185786.0
+Nashville,TN,Senior,167500.0
+New York,NY,Intermediate,170000.0
+Atlanta,GA,Intermediate,95000.0
+New York,NY,Intermediate,225000.0
+Chantilly,VA,Intermediate,125000.0
+Boulder,CO,Senior,85000.0
+Manhattan,NY,Senior,195000.0
+Boston,MA,Intermediate,192500.0
+Jacksonville,FL,Intermediate,100000.0
+Los Angeles,CA,Intermediate,115000.0
+Skillman,NJ,Intermediate,78300.0
+Manhattan,NY,Intermediate,175000.0
+Ewing,NJ,Senior,248500.0
+Costa Mesa,CA,Intermediate,146000.0
+Raleigh,NC,Senior,97875.0
+San Francisco,CA,Senior,161000.0
+Anaheim,CA,Senior,67538.58
+San Francisco,CA,Intermediate,155055.0
+San Francisco,CA,Senior,70517.59
+Danvers,MA,Junior,105500.0
+Seattle,WA,Intermediate,165000.0
+Irvine,CA,Senior,152066.0
+Santa Clara,CA,Senior,114592.5
+Danvers,MA,Junior,105500.0
+Spring House,PA,Senior,193000.0
+Centennial,CO,Intermediate,129750.0
+Gaithersburg,MD,Intermediate,114062.5
+San Jose,CA,Intermediate,141750.0
+New York,NY,Senior,132500.0
+Dallas,TX,Intermediate,86687.5
+Charlotte,NC,Intermediate,151350.0
+Portland,ME,Intermediate,120000.0
+Chicago,IL,Senior,129700.0
+New York,NY,Intermediate,151350.0
+Rahway,NJ,Senior,174450.0
+Charlotte,NC,Senior,133850.0
+Seattle,WA,Intermediate,240201.5
+Irving,TX,Intermediate,63525.0
+San Jose,CA,Intermediate,252844.0
+Austin,TX,Senior,188432.5
+San Jose,CA,Intermediate,250000.0
+San Jose,CA,Junior,197500.0
+Seattle,WA,Intermediate,237500.0
+Seattle,WA,Intermediate,237500.0
+San Jose,CA,Intermediate,250000.0
+Franklin,TN,Intermediate,85000.0
+Santa Clara,CA,Senior,279625.0
+Santa Clara,CA,Senior,259625.0
+Boston,MA,Senior,196000.0
+Santa Clara,CA,Senior,189000.0
+National City,CA,Senior,104917.0
+Boston,MA,Senior,196000.0
+San Francisco,CA,Intermediate,105000.0
+Austin,TX,Intermediate,185500.0
+Princeton,NJ,Senior,265000.0
+San Diego,CA,Intermediate,185500.0
+Jeffersonville,IN,Intermediate,112500.0
+Berkeley,CA,Intermediate,165000.0
+Irving,TX,Senior,137500.0
+Grand Rapids,MI,Intermediate,70000.0
+East Setauket,NY,Intermediate,69259.5
+San Diego,CA,Intermediate,69780.0
+Ridgewood,NJ,Senior,135000.0
+San Luis Obispo County,CA,Senior,150000.0
+New York,NY,Senior,172500.0
+New York,NY,Junior,39500.0
+Boston,MA,Senior,204887.5
+Victor,NY,Senior,88249.0
+Lakewood,CO,Senior,125000.0
+Warrenton,VA,Intermediate,135000.0
+New York,NY,Junior,39500.0
+Boston,MA,Senior,139750.0
+New York,NY,Junior,100000.0
+Sacramento,CA,Senior,155000.0
+Warrenton,VA,Intermediate,100000.0
+Merrimack,NH,Senior,195500.0
+Philadelphia,PA,Senior,117500.0
+Merrimack,NH,Senior,250000.0
+Chicago,IL,Senior,170000.0
+Orlando,FL,Junior,111500.0
+Nashville,TN,Senior,199300.0
+American Canyon,CA,Intermediate,101000.0
+Palo Alto,CA,Senior,215050.0
+Indianapolis,IN,Senior,158256.0
+Brentwood,TN,Senior,158256.0
+Queens,NY,Senior,80000.0
+Kansas City,MO,Intermediate,62250.0
+Pittsburgh,PA,Intermediate,95000.0
+Loveland,CO,Intermediate,56979.5
+New York,NY,Senior,180000.0
+Purchase,NY,Intermediate,92525.0
+New York,NY,Senior,170000.0
+Crane,IN,Senior,162500.0
+Duncan,OK,Intermediate,52500.0
+Springfield,IL,Senior,125000.0
+Baltimore,MD,Intermediate,129000.0
+Tallahassee,FL,Senior,130666.665
+Richmond,VA,Senior,76250.0
+Hartford,CT,Senior,85000.0
+Norwalk,CT,Senior,177500.0
+Garden City,NY,Intermediate,100000.0
+New York,NY,Intermediate,127500.0
+Solano County,CA,Senior,138236.88
+Herndon,VA,Intermediate,72500.0
+Memphis,TN,Senior,165000.0
+Seattle,WA,Intermediate,215000.0
+Cambridge,MA,Intermediate,72500.0
+Quincy,MA,Intermediate,83750.0
+Frisco,TX,Intermediate,94500.0
+Quincy,MA,Intermediate,83750.0
+Quincy,MA,Intermediate,83750.0
+Newark,NJ,Senior,147000.0
+Foster City,CA,Senior,253695.0
+Quincy,MA,Senior,147500.0
+Chicago,IL,Junior,84250.0
+Portland,OR,Senior,97875.0
+Santa Barbara County,CA,Senior,162960.0
+Kohler,WI,Intermediate,94250.0
+Hillsborough County,NH,Intermediate,85000.0
+San Jose,CA,Senior,183260.0
+New York,NY,Intermediate,72900.0
+Fairfield County,CT,Intermediate,85000.0
+New York,NY,Senior,101850.0
+Morrisville,NC,Senior,146000.0
+Kanawha County,WV,Intermediate,85000.0
+Meridian,ID,Intermediate,162500.0
+New York,NY,Senior,215000.0
+New York,NY,Intermediate,93750.0
+Raytown,MO,Junior,77500.0
+Atlanta,GA,Intermediate,93750.0
+Goodyear,AZ,Senior,113750.0
+San Mateo,CA,Senior,395220.0
+Denver,CO,Senior,160000.0
+San Mateo,CA,Senior,251160.0
+San Mateo,CA,Senior,258810.0
+New York,NY,Intermediate,163250.0
+Clearfield,UT,Intermediate,119900.0
+Chicago,IL,Senior,136200.0
+Brookhaven,GA,Senior,176500.0
+Herndon,VA,Intermediate,133596.0
+San Francisco,CA,Intermediate,137000.0
+Santa Clara,CA,Senior,158850.0
+New York,NY,Senior,174700.0
+San Jose,CA,Intermediate,181704.0
+Herndon,VA,Intermediate,137603.5
+San Jose,CA,Senior,165600.0
+Fremont,CA,Senior,112500.0
+Menlo Park,CA,Senior,220000.0
+Universal City,TX,Intermediate,101434.0
+Universal City,TX,Intermediate,101434.0
+Herndon,VA,Intermediate,92303.5
+New York,NY,Senior,98050.0
+Santa Barbara,CA,Junior,58800.0
+White Plains,NY,Senior,112500.0
+Redwood City,CA,Senior,181950.0
+Palo Alto,CA,Intermediate,102500.0
+Sunnyvale,CA,Intermediate,207500.0
+Sunnyvale,CA,Senior,192500.0
+Seattle,WA,Intermediate,80500.0
+New York,NY,Senior,147583.0
+San Francisco,CA,Senior,147583.0
+Beverly Hills,CA,Senior,150000.0
+Boston,MA,Intermediate,71250.0
+Oakland,CA,Senior,210000.0
+Princeton,NJ,Senior,161250.0
+Omaha,NE,Intermediate,87703.0
+Omaha,NE,Senior,117725.5
+Omaha,NE,Senior,117725.5
+Omaha,NE,Intermediate,105876.0
+Bethesda,MD,Senior,95500.0
+Omaha,NE,Senior,117725.5
+Omaha,NE,Intermediate,97184.0
+Minnetonka,MN,Intermediate,120000.0
+Houston,TX,Intermediate,92500.0
+Irving,TX,Intermediate,82415.0
+Schaumburg,IL,Senior,120000.0
+New York,NY,Senior,125000.0
+Coral Springs,FL,Senior,95000.0
+New York,NY,Intermediate,70000.0
+Costa Mesa,CA,Intermediate,102500.0
+New York,NY,Intermediate,70000.0
+Maplewood,MN,Senior,180000.0
+Ridgewood,NJ,Senior,110000.0
+Ridgewood,NJ,Intermediate,135000.0
+Austin,TX,Intermediate,183250.0
+Redmond,WA,Senior,115350.0
+Smyrna,GA,Intermediate,87500.0
+Denver,CO,Intermediate,75000.0
+New York,NY,Senior,80000.0
+Atlanta,GA,Senior,208500.0
+Redmond,WA,Senior,143400.0
+Los Angeles,CA,Senior,295000.0
+Boston,MA,Intermediate,108000.0
+Denver,CO,Intermediate,142500.0
+Bronx,NY,Intermediate,57000.0
+Canton,MA,Senior,193420.0
+West Hartford,CT,Senior,193420.0
+Atlanta,GA,Intermediate,127259.4
+Nashville,TN,Senior,190300.0
+Johns Creek,GA,Senior,170000.0
+Baltimore,MD,Intermediate,82581.0
+Davidson,NC,Senior,166000.0
+Santa Clarita,CA,Senior,112500.0
+New York,NY,Intermediate,75000.0
+New York,NY,Intermediate,75000.0
+San Francisco,CA,Senior,119050.0
+Wellesley,MA,Senior,185000.0
+Jersey City,NJ,Intermediate,189500.0
+Lancaster,CA,Junior,104750.0
+Berkeley,CA,Intermediate,300000.0
+Napa,CA,Intermediate,130000.0
+Seattle,WA,Senior,192200.0
+New York,NY,Senior,137000.0
+Plano,TX,Intermediate,95000.0
+Dulles,VA,Senior,147500.0
+Bellingham,WA,Senior,75000.0
+Moberly,MO,Senior,87500.0
+Mountain View,CA,Intermediate,180000.0
+Tampa,FL,Senior,115000.0
+Ridgewood,NJ,Intermediate,140000.0
+Scottsdale,AZ,Intermediate,77500.0
+Old Westbury,NY,Junior,65000.0
+Chicago,IL,Senior,120000.0
+Jacksonville,FL,Intermediate,97500.0
+New Holland,PA,Intermediate,90000.0
+Atlanta,GA,Intermediate,130000.0
+New York,NY,Senior,110000.0
+Chicago,IL,Senior,80000.0
+Chicago,IL,Senior,80000.0
+New York,NY,Intermediate,160000.0
+New York,NY,Senior,250000.0
+Pittsburgh,PA,Intermediate,90000.0
+San Jose,CA,Intermediate,145675.0
+New York,NY,Senior,125000.0
+San Jose,CA,Intermediate,170450.0
+Costa Mesa,CA,Intermediate,87500.0
+Costa Mesa,CA,Senior,155000.0
+Costa Mesa,CA,Senior,155000.0
+Costa Mesa,CA,Intermediate,111000.0
+Princeton,NJ,Intermediate,105000.0
+New York,NY,Intermediate,105000.0
+McLean,VA,Intermediate,129000.0
+Cincinnati,OH,Intermediate,120000.0
+San Francisco,CA,Junior,102000.0
+Cincinnati,OH,Senior,95500.0
+New York,NY,Senior,229600.0
+Redmond,WA,Junior,57500.0
+Columbus,OH,Senior,199300.0
+Akron,OH,Intermediate,69000.0
+Charlotte,NC,Senior,127550.0
+Memphis,TN,Junior,111500.0
+Lehi,UT,Intermediate,89000.0
+Norwalk,CT,Senior,117500.0
+Truckee,CA,Senior,125000.0
+McLean,VA,Intermediate,95000.0
+Ridgewood,NJ,Senior,140000.0
+Santa Clara,CA,Senior,216572.5
+Brentwood,TN,Senior,135000.0
+San Francisco,CA,Senior,120000.0
+Hamilton,NJ,Intermediate,84300.0
+Chantilly,VA,Intermediate,165000.0
+Wichita,KS,Senior,115000.0
+Lake Oswego,OR,Senior,81600.0
+Chicago,IL,Intermediate,100000.0
+New Orleans,LA,Intermediate,100000.0
+Secaucus,NJ,Intermediate,110000.0
+Roanoke,TX,Intermediate,80000.0
+Denver,CO,Intermediate,100000.0
+Roseville,CA,Intermediate,72250.0
+Madison,WI,Intermediate,110000.0
+Seattle,WA,Senior,192200.0
+Denver,CO,Intermediate,142500.0
+Seattle,WA,Intermediate,142500.0
+New York,NY,Senior,300000.0
+San Francisco,CA,Intermediate,110000.0
+Louisville,CO,Intermediate,127500.0
+Redwood City,CA,Intermediate,101000.0
+San Mateo,CA,Senior,262400.0
+Chicago,IL,Intermediate,105000.0
+San Diego,CA,Intermediate,114300.0
+Mountain View,CA,Intermediate,85000.0
+Fort Mill,SC,Senior,127800.0
+San Diego,CA,Intermediate,85000.0
+Madison,WI,Senior,162000.0
+Durham,NC,Intermediate,163750.0
+Bethesda,MD,Intermediate,185000.0
+Orlando,FL,Senior,145000.0
+Phoenix,AZ,Intermediate,117500.0
+Sunnyvale,CA,Senior,214500.0
+Big Rapids,MI,Senior,110000.0
+Ridgewood,NJ,Intermediate,140000.0
+Littleton,CO,Intermediate,90650.0
+New York,NY,Intermediate,117500.0
+Reading,PA,Intermediate,86500.0
+San Diego,CA,Intermediate,101000.0
+Richardson,TX,Junior,59500.0
+Pullman,WA,Intermediate,85000.0
+Irvine,CA,Senior,127750.0
+Reston,VA,Senior,183790.5
+Mountain View,CA,Senior,212600.0
+San Jose,CA,Senior,172000.0
+New York,NY,Senior,190000.0
+San Jose,CA,Senior,97500.0
+Costa Mesa,CA,Intermediate,100309.67
+Irvine,CA,Senior,110000.0
+San Jose,CA,Senior,163550.0
+Santa Clara County,CA,Senior,158000.0
+New York,NY,Senior,206800.0
+New York,NY,Senior,187500.0
+Plano,TX,Intermediate,82870.0
+San Francisco,CA,Intermediate,149000.0
+Denver,CO,Senior,121750.0
+Los Angeles,CA,Intermediate,130633.5
+Los Angeles,CA,Intermediate,130633.5
+New Brunswick,NJ,Senior,115000.0
+Redmond,WA,Senior,175300.0
+Phoenix,AZ,Senior,175300.0
+Phoenix,AZ,Senior,127500.0
+Buffalo,NY,Senior,122300.0
+Riverwoods,IL,Senior,102500.0
+San Francisco,CA,Senior,55000.0
+Sandy Springs,GA,Intermediate,137000.0
+Binghamton,NY,Senior,160000.0
+Princeton,NJ,Senior,62500.0
+New York,NY,Intermediate,192000.0
+New York,NY,Intermediate,93800.0
+Austin,TX,Senior,158850.0
+New York,NY,Intermediate,45269.5
+Denver,CO,Intermediate,118350.0
+Manhattan Beach,CA,Intermediate,87500.0
+New York,NY,Senior,195000.0
+New York,NY,Senior,172500.0
+Jersey City,NJ,Senior,145000.0
+Bellevue,WA,Senior,212000.0
+New York,NY,Senior,215500.0
+Jersey City,NJ,Intermediate,190450.0
+Jersey City,NJ,Intermediate,305000.0
+Boston,MA,Intermediate,155000.0
+Austin,TX,Intermediate,107050.0
+Riverwoods,IL,Senior,151900.0
+Collegeville,PA,Senior,99850.0
+Milwaukee,WI,Senior,142900.0
+Little Rock,AR,Intermediate,103250.0
+New York,NY,Senior,125000.0
+Dallas,TX,Senior,200000.0
+New York,NY,Senior,102500.0
+Livermore,CA,Intermediate,150000.0
+Boston,MA,Senior,190000.0
+Chicago,IL,Senior,190000.0
+Manhattan,NY,Intermediate,225900.0
+New York,NY,Senior,300000.0
+Maplewood,MN,Senior,197734.5
+Seattle,WA,Senior,170000.0
+New York,NY,Senior,86500.0
+Redmond,WA,Senior,143400.0
+Anaheim,CA,Senior,122500.0
+Austin,TX,Senior,231350.0
+Austin,TX,Intermediate,140000.0
+San Antonio,TX,Senior,115350.0
+Phoenix,AZ,Senior,363220.735
+Redmond,WA,Senior,143400.0
+Los Angeles,CA,Senior,275000.0
+Norwalk,CT,Senior,177500.0
+Irvine,CA,Senior,127500.0
+New York,NY,Intermediate,222500.0
+Chicago,IL,Intermediate,110000.0
+Phoenix,AZ,Senior,91400.0
+Los Angeles,CA,Intermediate,65000.0
+Charlottesville,VA,Senior,166700.0
+Atlanta,GA,Intermediate,60000.0
+San Diego,CA,Senior,355000.0
+Spokane,WA,Intermediate,84000.0
+Louisville,KY,Intermediate,77250.0
+Mountain View,CA,Senior,236500.0
+Palo Alto,CA,Senior,164500.0
+Mountain View,CA,Intermediate,157000.0
+Los Angeles,CA,Intermediate,161500.0
+New York,NY,Senior,255500.0
+Redmond,WA,Intermediate,111750.0
+San Francisco,CA,Intermediate,138000.0
+Austin,TX,Senior,83133.0
+Aberdeen,MD,Intermediate,132550.0
+Plano,TX,Intermediate,222650.0
+Tampa,FL,Senior,165552.0
+New York,NY,Senior,186500.0
+Durham,NC,Intermediate,168000.0
+Baltimore,MD,Senior,182000.0
+Richmond,VA,Intermediate,80530.0
+San Diego,CA,Intermediate,129076.5
+Los Angeles,CA,Intermediate,171000.0
+Pittsburgh,PA,Intermediate,171000.0
+Arlington,VA,Senior,114500.0
+New York,NY,Intermediate,91500.0
+Anchorage,AK,Senior,193800.0
+Mountain View,CA,Senior,176500.0
+Emeryville,CA,Senior,193500.0
+Canton,MA,Senior,193420.0
+Denver,CO,Intermediate,171000.0
+Nashville,TN,Senior,190300.0
+Jersey City,NJ,Intermediate,160000.0
+Boydton,VA,Intermediate,98000.0
+Raleigh,NC,Junior,104032.5
+San Clemente,CA,Senior,65000.0
+Oakland,CA,Senior,235000.0
+Redwood City,CA,Senior,170000.0
+Oakland,CA,Senior,228800.11
+New York,NY,Senior,154184.0
+Oakland,CA,Senior,107500.0
+Palo Alto,CA,Senior,137717.5
+New York,NY,Senior,102000.0
+Sunnyvale,CA,Senior,260000.0
+Hayward,CA,Senior,180000.0
+Russellville,AR,Senior,80000.0
+Moscow,ID,Senior,110000.0
+Seattle,WA,Intermediate,128500.0
+Orange County,CA,Senior,255000.0
+Tulsa,OK,Intermediate,105000.0
+Cleveland,OH,Intermediate,77893.5
+Chicago,IL,Intermediate,105000.0
+Boston,MA,Junior,80000.0
+Oceanside,CA,Senior,112500.0
+Minneapolis,MN,Intermediate,85550.0
+Seattle,WA,Intermediate,125000.0
+Los Angeles,CA,Senior,142500.0
+McLean,VA,Intermediate,140000.0
+Atlanta,GA,Senior,140000.0
+Burlington County,NJ,Junior,77500.0
+Tukwila,WA,Senior,98409.2
+Ann Arbor,MI,Senior,128500.0
+New York,NY,Senior,167500.0
+Phoenix,AZ,Senior,150000.0
+New York,NY,Intermediate,158750.0
+Redwood City,CA,Senior,158850.0
+Morristown,NJ,Senior,150100.0
+Denver,CO,Senior,168900.0
+Rochelle Park,NJ,Senior,115000.0
+Redwood City,CA,Senior,115000.0
+Chicago,IL,Senior,110375.0
+Tukwila,WA,Intermediate,158760.54
+Tampa,FL,Intermediate,102500.0
+New York,NY,Senior,197500.0
+Draper,UT,Senior,155000.0
+San Antonio,TX,Senior,112500.0
+Atlanta,GA,Intermediate,75000.0
+Monroeville,PA,Intermediate,86430.0
+Boston,MA,Senior,95000.0
+Dallas,TX,Senior,132000.0
+Boston,MA,Senior,130000.0
+Burlingame,CA,Intermediate,65000.0
+Baltimore,MD,Intermediate,61150.0
+New York,NY,Senior,109700.0
+New York,NY,Intermediate,66000.0
+Redwood City,CA,Senior,221500.0
+Boston,MA,Intermediate,175000.0
+Austin,TX,Senior,135000.0
+Boston,MA,Intermediate,175000.0
+Arlington,VA,Intermediate,105000.0
+Riverside,CA,Intermediate,86760.0
+Austin,TX,Intermediate,120000.0
+Cambridge,MA,Senior,153000.0
+Oakland,CA,Senior,235000.0
+State Farm,VA,Intermediate,87700.0
+Oakland,CA,Senior,210000.0
+Ohio City,OH,Intermediate,94000.0
+Los Angeles,CA,Intermediate,105000.0
+San Jose,CA,Senior,251100.0
+Buena Park,CA,Senior,112500.0
+San Jose,CA,Senior,236500.0
+Huntsville,AL,Intermediate,85000.0
+Kirkland,WA,Senior,287000.0
+Annapolis Junction,MD,Intermediate,98700.0
+Atlanta,GA,Intermediate,123800.0
+Mountain View,CA,Intermediate,186500.0
+Plano,TX,Senior,158855.0
+Colorado Springs,CO,Senior,144345.0
+Irving,TX,Senior,173676.0
+San Diego,CA,Senior,115399.5
+Phoenix,AZ,Senior,158855.0
+Miami,FL,Senior,137500.0
+Chesapeake,VA,Senior,144345.0
+Orlando,FL,Senior,110000.0
+San Antonio,TX,Senior,158855.0
+New York,NY,Intermediate,162300.0
+Ontario,CA,Senior,142500.0
+Arlington,VA,Intermediate,155650.0
+Austin,TX,Intermediate,169300.0
+Columbia,SC,Senior,100000.0
+Santa Clara,CA,Intermediate,100000.0
+Huntington Beach,CA,Intermediate,70000.0
+Charleston,WV,Junior,101000.0
+Austin,TX,Senior,225000.0
+Dayton,OH,Senior,225000.0
+Dayton,OH,Intermediate,185000.0
+Pataskala,OH,Senior,120000.0
+Sunnyvale,CA,Senior,205000.0
+McLean,VA,Intermediate,89700.0
+Lexington,KY,Senior,101504.0
+Sunnyvale,CA,Intermediate,120000.0
+Oakland,CA,Senior,246100.425
+Union County,NJ,Intermediate,60000.0
+Houston,TX,Junior,80000.0
+Charlotte,NC,Junior,70000.0
+New York,NY,Intermediate,90000.0
+Worcester,MA,Intermediate,100000.0
+Rancho Santa Margarita,CA,Intermediate,102500.0
+Charlottesville,VA,Intermediate,115650.0
+Los Angeles,CA,Senior,224500.0
+New York,NY,Senior,224500.0
+Clayton,MO,Intermediate,87600.0
+Seattle,WA,Junior,74570.0
+Carlsbad,CA,Senior,230150.0
+Richmond,VA,Intermediate,60000.0
+Chicago,IL,Senior,75000.0
+Atlanta,GA,Senior,122000.0
+New York,NY,Intermediate,78000.0
+New York,NY,Intermediate,130000.0
+New York,NY,Senior,151500.0
+San Francisco,CA,Senior,200000.0
+Irving,TX,Intermediate,74670.0
+Seattle,WA,Senior,287000.0
+Rochester,NY,Intermediate,74500.0
+New York,NY,Senior,115000.0
+New York,NY,Senior,153550.0
+New York,NY,Senior,150000.0
+Seattle,WA,Senior,175100.0
+Tampa,FL,Senior,142300.0
+Seattle,WA,Intermediate,152150.0
+Denver,CO,Intermediate,168450.0
+Seattle,WA,Intermediate,178100.0
+Seattle,WA,Senior,178100.0
+Santa Monica,CA,Senior,138750.0
+Boston,MA,Intermediate,179100.0
+Des Moines,IA,Intermediate,99000.0
+New York,NY,Intermediate,205000.0
+San Francisco,CA,Intermediate,211500.0
+Seattle,WA,Intermediate,168300.0
+Foster City,CA,Intermediate,123649.5
+Ashburn,VA,Intermediate,72000.0
+Austin,TX,Senior,163500.0
+New York,NY,Senior,247500.0
+Cambridge,MA,Intermediate,162800.0
+Foster City,CA,Senior,140923.0
+Seattle,WA,Senior,175250.0
+South San Francisco,CA,Senior,141650.0
+Fremont,CA,Intermediate,92500.0
+San Jose,CA,Senior,180688.5
+San Francisco County,CA,Senior,181500.0
+Dublin,OH,Intermediate,82500.0
+Madison,WI,Intermediate,80000.0
+Milwaukee,WI,Senior,172900.0
+New York,NY,Senior,108433.44
+Austin,TX,Senior,134207.5
+Sun Prairie Town,WI,Senior,174500.0
+Duluth,GA,Senior,146200.0
+Sacramento,CA,Intermediate,216200.0
+New York,NY,Senior,92500.0
+Seattle,WA,Senior,211950.0
+Boston,MA,Intermediate,162200.0
+Seattle,WA,Senior,182100.0
+Arlington,VA,Intermediate,176050.0
+Santa Monica,CA,Senior,198000.0
+Santa Monica,CA,Senior,180950.0
+Boston,MA,Intermediate,162200.0
+Seattle,WA,Senior,217850.0
+Seattle,WA,Senior,213350.0
+Seattle,WA,Senior,185200.0
+Redmond,WA,Senior,178100.0
+Seattle,WA,Senior,191800.0
+Boston,MA,Senior,180950.0
+Seattle,WA,Intermediate,182100.0
+Chicago,IL,Senior,154700.0
+Boston,MA,Intermediate,139500.0
+San Jose,CA,Senior,375000.0
+Hanover,MD,Intermediate,100000.0
+Bellevue,WA,Senior,234500.0
+Bellevue,WA,Senior,200000.0
+Oklahoma City,OK,Senior,90000.0
+Baltimore,MD,Senior,97000.0
+Chicago,IL,Intermediate,122500.0
+Altamonte Springs,FL,Intermediate,141875.0
+North Wales,PA,Junior,72550.0
+El Segundo,CA,Senior,150500.0
+Chicago,IL,Senior,132500.0
+Bloomington,MN,Senior,95000.0
+Bellevue,WA,Senior,252500.0
+Morristown,NJ,Senior,200000.0
+Miami,FL,Senior,137000.0
+San Jose,CA,Senior,159560.0
+Oakland,CA,Senior,119900.0
+New York,NY,Senior,200000.0
+Franklin,WI,Intermediate,107400.0
+South San Francisco,CA,Senior,156500.0
+Sausalito,CA,Intermediate,180750.0
+Renton,WA,Intermediate,95000.0
+Manhattan Beach,CA,Intermediate,266217.5
+Scottsdale,AZ,Senior,181000.0
+Irvine,CA,Junior,63000.0
+San Francisco,CA,Senior,134000.0
+Cleveland,OH,Senior,131518.0
+Chicago,IL,Intermediate,90000.0
+Greenville,SC,Senior,110315.0
+San Diego,CA,Senior,104000.0
+Los Angeles,CA,Senior,134000.0
+Wilmington,DE,Senior,113100.0
+Mountain View,CA,Senior,245500.0
+Mountain View,CA,Senior,184500.0
+Cleveland,OH,Senior,118318.0
+Eagan,MN,Intermediate,102000.0
+San Diego,CA,Intermediate,125000.0
+Roseville,MN,Senior,100000.0
+Chicago,IL,Junior,233650.0
+Atlanta,GA,Senior,180750.0
+San Diego,CA,Senior,170940.0
+Columbia,MD,Intermediate,78500.0
+Denver,CO,Intermediate,62700.0
+Menlo Park,CA,Senior,232500.0
+San Francisco,CA,Intermediate,103500.0
+Colorado Springs,CO,Intermediate,90785.5
+Chandler,AZ,Senior,97500.0
+San Francisco,CA,Senior,214250.0
+Newark,NJ,Senior,80000.0
+Seattle,WA,Senior,230000.0
+Costa Mesa,CA,Intermediate,172500.0
+Deerfield,IL,Senior,175000.0
+Skillman,NJ,Senior,123500.0
+Palo Alto,CA,Intermediate,147000.0
+Sunnyvale,CA,Intermediate,166150.0
+Plymouth Meeting,PA,Senior,139500.0
+Costa Mesa,CA,Senior,210000.0
+Jersey City,NJ,Senior,120000.0
+Austin,TX,Senior,165000.0
+San Antonio,TX,Intermediate,100000.0
+Oakland,CA,Intermediate,227500.0
+Oakland,CA,Senior,179000.0
+Omaha,NE,Intermediate,87500.0
+Falls Church,VA,Intermediate,87500.0
+Allentown,PA,Intermediate,100000.0
+Tampa,FL,Intermediate,115000.0
+Los Angeles,CA,Senior,211300.0
+Cincinnati,OH,Senior,100000.0
+New York,NY,Intermediate,200000.0
+Culver City,CA,Senior,127700.0
+Phoenix,AZ,Intermediate,137177.0
+Greenwich,CT,Intermediate,172500.0
+Jersey City,NJ,Senior,145000.0
+Jersey City,NJ,Intermediate,160000.0
+Bellevue,WA,Intermediate,147800.0
+Jersey City,NJ,Senior,180950.0
+Boston,MA,Senior,169300.0
+Arlington,VA,Senior,179750.0
+Bellevue,WA,Senior,182100.0
+Seattle,WA,Intermediate,101300.0
+Nashville,TN,Senior,165000.0
+Des Moines,IA,Intermediate,86100.0
+Nashville,TN,Intermediate,135000.0
+San Jose,CA,Intermediate,150100.0
+San Jose,CA,Senior,216400.0
+Glastonbury,CT,Intermediate,90650.0
+Rockville,MD,Senior,147500.0
+Bethesda,MD,Intermediate,100850.0
+Glastonbury,CT,Intermediate,90650.0
+Denver,CO,Intermediate,80395.0
+St Louis,MO,Intermediate,87600.0
+San Bruno,CA,Senior,186500.0
+Sunnyvale,CA,Intermediate,168000.0
+Mountain View,CA,Senior,200000.0
+Augusta,GA,Senior,61061.225
+Kirkland,WA,Senior,200000.0
+Seattle,WA,Intermediate,168000.0
+Santa Monica,CA,Senior,172672.5
+New York,NY,Senior,200000.0
+Seattle,WA,Intermediate,133000.0
+Henderson,NV,Intermediate,83250.0
+New Albany,OH,Intermediate,83250.0
+Mountain View,CA,Senior,210000.0
+Hickam Village,HI,Senior,123800.0
+Melbourne,FL,Intermediate,180000.0
+Los Angeles,CA,Senior,132500.0
+San Diego,CA,Intermediate,135000.0
+Tampa,FL,Senior,155500.0
+Bethesda,MD,Senior,174600.0
+Tampa,FL,Senior,112500.0
+Sunnyvale,CA,Senior,287000.0
+Mountain View,CA,Senior,236500.0
+Bothell,WA,Senior,110000.0
+Mountain View,CA,Senior,287000.0
+McLean,VA,Intermediate,123800.0
+Portland,OR,Senior,115000.0
+Reno,NV,Intermediate,83250.0
+Cherry Hill,NJ,Intermediate,100000.0
+Minneapolis,MN,Intermediate,100000.0
+New York,NY,Senior,126250.0
+Miami,FL,Senior,100000.0
+New York,NY,Intermediate,80000.0
+Watervliet,NY,Senior,100000.0
+Emeryville,CA,Senior,155000.0
+Oakton,VA,Senior,128554.5
+Irvine,CA,Intermediate,117500.0
+Herndon,VA,Senior,128554.5
+Middletown,NJ,Intermediate,164050.0
+Dallas,TX,Senior,165450.0
+New York,NY,Senior,650000.0
+St Charles,IL,Intermediate,110000.0
+Monmouth Junction,NJ,Intermediate,75000.0
+Fort Belvoir,VA,Senior,138800.0
+New York,NY,Senior,200000.0
+Boston,MA,Senior,159750.0
+Edison,NJ,Senior,105000.0
+New York,NY,Senior,162500.0
+Denver,CO,Intermediate,79100.0
+New York,NY,Senior,160000.0
+New York,NY,Senior,162500.0
+Jacksonville,FL,Senior,92500.0
+Chevy Chase,MD,Senior,173250.0
+Mountain View,CA,Senior,266000.0
+Hayward,CA,Senior,213625.0
+Foster City,CA,Senior,253695.0
+Golden,CO,Senior,119600.0
+Quincy,MA,Senior,107500.0
+New York,NY,Senior,125000.0
+San Francisco,CA,Senior,164125.0
+Auburn,AL,Senior,81550.0
+Thousand Oaks,CA,Senior,135000.0
+Seattle,WA,Senior,164125.0
+Charlotte,NC,Intermediate,110000.0
+Chicago,IL,Senior,164125.0
+Colorado Springs,CO,Senior,137400.0
+New York,NY,Senior,164125.0
+Durham,NC,Senior,220000.0
+Kearney,MO,Intermediate,90000.0
+Seattle,WA,Senior,191000.0
+Burlingame,CA,Senior,191000.0
+Seattle,WA,Intermediate,143575.0
+Topeka,KS,Intermediate,95000.0
+Milwaukee,WI,Senior,142900.0
+Austin,TX,Senior,191000.0
+New York,NY,Intermediate,124000.0
+Parsippany,NJ,Intermediate,63650.0
+New York,NY,Senior,191000.0
+Durham,NC,Senior,193800.0
+Old Lyme Shores,CT,Senior,74300.0
+Seattle,WA,Intermediate,111750.0
+Philadelphia,PA,Intermediate,54459.5
+Dallas,TX,Senior,170000.0
+Jersey City,NJ,Intermediate,99500.0
+Irvine,CA,Intermediate,85000.0
+New York,NY,Senior,155000.0
+New York,NY,Junior,40250.0
+Seattle,WA,Senior,225000.0
+Menlo Park,CA,Intermediate,124000.0
+Seattle,WA,Intermediate,178750.0
+Philadelphia,PA,Intermediate,62702.5
+Wayne,PA,Senior,193800.0
+Atlanta,GA,Intermediate,80000.0
+Cleveland,OH,Senior,118318.5
+Palo Alto,CA,Senior,237500.0
+Milford,MI,Intermediate,97400.0
+Sterling,VA,Intermediate,124575.0
+Los Angeles,CA,Senior,345500.0
+Cleveland,OH,Senior,156969.0
+Charlotte,NC,Senior,100464.0
+Lake Forest,IL,Senior,164000.0
+Philadelphia,PA,Senior,135000.0
+Princeton,NJ,Senior,275000.0
+Columbus,OH,Senior,93840.25
+Boston,MA,Intermediate,112500.0
+New York,NY,Intermediate,155000.0
+Philadelphia,PA,Intermediate,155000.0
+Raleigh,NC,Intermediate,168500.0
+Phoenix,AZ,Intermediate,155000.0
+San Antonio,TX,Intermediate,155000.0
+Los Angeles County,CA,Intermediate,170000.0
+New York,NY,Senior,170000.0
+Chicago,IL,Intermediate,170000.0
+Lexington,KY,Intermediate,74977.0
+Boca Raton,FL,Intermediate,92500.0
+Palo Alto,CA,Senior,143900.0
+Pittsburgh,PA,Senior,180000.0
+Kingsport,TN,Intermediate,145000.0
+New York,NY,Senior,140000.0
+San Carlos,CA,Senior,197100.0
+New York,NY,Senior,170000.0
+New York,NY,Senior,105500.0
+San Jose,CA,Senior,192025.0
+Warren,OH,Senior,100000.0
+San Mateo,CA,Senior,270850.0
+Costa Mesa,CA,Senior,185000.0
+Costa Mesa,CA,Intermediate,155000.0
+Bethesda,MD,Senior,192500.0
+Apex,NC,Junior,95600.0
+Los Gatos,CA,Intermediate,445000.0
+Universal City,CA,Senior,150000.0
+Englewood Cliffs,NJ,Intermediate,117500.0
+Baltimore,MD,Intermediate,85000.0
+Albany,NY,Senior,115807.0
+Newark,NJ,Intermediate,195000.0
+Chantilly,VA,Intermediate,133000.0
+Seattle,WA,Intermediate,83864.0
+Fort Meade,MD,Intermediate,171550.0
+Riverdale,UT,Intermediate,60000.0
+San Francisco,CA,Senior,232500.0
+Albany,NY,Intermediate,95305.0
+Albany,NY,Intermediate,105702.5
+Raynham,MA,Intermediate,79375.0
+Columbus,OH,Senior,204500.0
+Columbia,MD,Senior,102250.0
+Westlake,TX,Senior,319900.0
+Aliso Viejo,CA,Senior,91000.0
+San Francisco,CA,Intermediate,147500.0
+San Francisco,CA,Intermediate,147500.0
+Melbourne,FL,Senior,143600.0
+Rahway,NJ,Intermediate,107000.0
+Rahway,NJ,Senior,143350.0
+Houston,TX,Intermediate,100000.0
+Mountain View,CA,Intermediate,134738.0
+Charlotte,NC,Senior,161800.0
+Seattle,WA,Intermediate,127500.0
+Los Angeles,CA,Intermediate,131575.0
+Mountain View,CA,Intermediate,143575.0
+Portland,OR,Intermediate,132600.0
+San Francisco,CA,Senior,290000.0
+Sunnyvale,CA,Senior,312000.0
+Alpharetta,GA,Senior,122850.0
+San Francisco,CA,Intermediate,185500.0
+Los Angeles,CA,Intermediate,182500.0
+San Jose,CA,Intermediate,170900.0
+Baltimore,MD,Senior,151050.0
+San Francisco,CA,Intermediate,101700.0
+Austin,TX,Senior,136275.0
+Maple Grove,MN,Intermediate,100000.0
+Foster City,CA,Senior,162825.0
+Arlington,VA,Intermediate,95000.0
+Buffalo,NY,Senior,130492.7
+Jacksonville,FL,Intermediate,126125.0
+Foster City,CA,Senior,234000.0
+Monterey Park,CA,Senior,192500.0
+Foster City,CA,Senior,201177.5
+Austin,TX,Senior,124400.0
+Camden,NJ,Senior,113350.0
+New York,NY,Intermediate,68550.0
+Foster City,CA,Senior,332500.0
+Austin,TX,Intermediate,101700.0
+Jersey City,NJ,Senior,197500.0
+Atlanta,GA,Senior,163200.0
+San Francisco,CA,Senior,124400.0
+Lewiston,ME,Senior,90480.0
+Foster City,CA,Senior,187275.5
+Cleveland,OH,Senior,107506.5
+Herndon,VA,Intermediate,189915.0
+San Francisco,CA,Senior,210000.0
+Lewiston,ME,Intermediate,113100.0
+Bar Harbor,ME,Senior,112719.0
+Cleveland,OH,Senior,107506.5
+San Jose,CA,Senior,175550.0
+Raleigh,NC,Intermediate,134350.0
+Seattle,WA,Senior,180600.0
+San Jose,CA,Intermediate,169300.0
+San Francisco,CA,Senior,186550.0
+Pensacola,FL,Intermediate,135587.5
+Vienna,VA,Intermediate,135587.5
+Vienna,VA,Intermediate,114937.5
+Austin,TX,Intermediate,117000.0
+Pensacola,FL,Intermediate,107900.0
+New York,NY,Senior,153000.0
+Raleigh,NC,Intermediate,106600.0
+Los Angeles,CA,Intermediate,110000.0
+Pensacola,FL,Intermediate,105200.0
+Vienna,VA,Intermediate,163900.0
+Vienna,VA,Intermediate,105200.0
+Vienna,VA,Intermediate,107900.0
+Pensacola,FL,Intermediate,114937.5
+San Jose,CA,Intermediate,220000.0
+Santa Monica,CA,Intermediate,100000.0
+New York,NY,Senior,190000.0
+Fairfax,VA,Intermediate,109150.0
+Dublin,OH,Senior,145000.0
+Fort Mill,SC,Intermediate,92500.0
+Fairfax,VA,Senior,122800.0
+Fairfax,VA,Intermediate,97000.0
+Duarte,CA,Intermediate,140000.0
+Princeton,NJ,Intermediate,145000.0
+Urbana,IL,Senior,95000.0
+Los Gatos,CA,Intermediate,150000.0
+Fairfax,VA,Intermediate,122800.0
+Chico,CA,Intermediate,90500.0
+Sunnyvale,CA,Senior,143300.0
+Dallas,TX,Senior,104300.0
+Alpharetta,GA,Intermediate,142150.0
+Middletown,NJ,Intermediate,142150.0
+Seattle,WA,Senior,229500.0
+New York,NY,Senior,215000.0
+Commerce,CA,Intermediate,81946.8
+Plano,TX,Senior,104300.0
+San Francisco,CA,Senior,172927.5
+New York,NY,Senior,122500.0
+San Francisco,CA,Senior,384250.0
+Cowpens,SC,Intermediate,104000.0
+Auburn,CA,Intermediate,90500.0
+Brookfield,WI,Senior,148492.5
+Seattle,WA,Intermediate,135504.0
+Charlotte,NC,Senior,198650.0
+Huntsville,AL,Senior,174600.0
+Menlo Park,CA,Intermediate,167000.0
+San Francisco,CA,Intermediate,167000.0
+Seattle,WA,Intermediate,187625.0
+Seattle,WA,Senior,260775.0
+New York,NY,Intermediate,167000.0
+San Francisco,CA,Senior,139225.0
+San Jose,CA,Intermediate,197500.0
+Cary,NC,Junior,102875.0
+Pittsburgh,PA,Intermediate,145000.0
+Foster City,CA,Senior,248000.0
+Los Angeles,CA,Intermediate,167500.0
+San Jose,CA,Senior,233520.0
+Menlo Park,CA,Senior,243500.0
+Eagan,MN,Intermediate,102000.0
+San Francisco,CA,Intermediate,113350.0
+Austin,TX,Senior,139225.0
+Austin,TX,Senior,185500.0
+Austin,TX,Intermediate,113350.0
+Seattle,WA,Senior,248000.0
+San Francisco,CA,Senior,127500.0
+Columbus,OH,Senior,176850.0
+Austin,TX,Senior,128500.0
+Dallas,TX,Senior,240000.0
+New York,NY,Senior,142000.0
+Los Angeles,CA,Senior,210000.0
+San Francisco,CA,Intermediate,175500.0
+New York,NY,Intermediate,175500.0
+San Francisco,CA,Senior,118000.0
+Burlingame,CA,Intermediate,182500.0
+Redmond,WA,Senior,231000.0
+Austin,TX,Senior,141000.0
+Redmond,WA,Senior,165000.0
+Seattle,WA,Intermediate,145000.0
+Los Angeles,CA,Senior,149000.0
+Huntsville,AL,Senior,201000.0
+San Francisco,CA,Senior,90103.0
+Huntsville,AL,Intermediate,130998.5
+Rosemount,MN,Senior,145500.0
+New York,NY,Intermediate,214000.0
+Seattle,WA,Senior,142000.0
+Seattle,WA,Senior,157000.0
+Menlo Park,CA,Senior,118000.0
+New York,NY,Senior,118000.0
+San Francisco,CA,Intermediate,177497.0
+San Francisco,CA,Senior,232000.0
+Fremont,CA,Senior,141000.0
+Sunnyvale,CA,Senior,198500.0
+Austin,TX,Senior,142000.0
+New York,NY,Senior,90103.0
+New York,NY,Senior,232000.0
+Bellevue,WA,Senior,198500.0
+San Francisco,CA,Intermediate,112995.0
+Reston,VA,Senior,141000.0
+Austin,TX,Intermediate,137000.0
+Burlingame,CA,Senior,210000.0
+New York,NY,Intermediate,198000.0
+Menlo Park,CA,Senior,142000.0
+Sunnyvale,CA,Senior,165000.0
+Burlingame,CA,Senior,125000.0
+Garland,TX,Intermediate,106665.0
+Lancaster,PA,Intermediate,125600.0
+Boston,MA,Senior,132500.0
+New York,NY,Intermediate,207500.0
+Broomfield,CO,Senior,165000.0
+Chicago,IL,Senior,600000.0
+Phoenix,AZ,Intermediate,95000.0
+Boston,MA,Intermediate,115000.0
+New York,NY,Senior,300000.0
+New York,NY,Senior,212500.0
+New York,NY,Senior,212500.0
+Quincy,MA,Intermediate,70000.0
+New York,NY,Senior,200000.0
+New York,NY,Senior,200000.0
+Peachtree Corners,GA,Senior,149150.0
+Newark,NJ,Intermediate,202500.0
+Madison,NJ,Senior,115000.0
+New York,NY,Senior,182500.0
+Middletown,NJ,Senior,172100.0
+Houston,TX,Senior,208200.0
+San Francisco,CA,Intermediate,118900.0
+New York,NY,Senior,113850.0
+Glendale,CA,Senior,144750.0
+New York,NY,Senior,287500.0
+McLean,VA,Intermediate,225000.0
+McLean,VA,Intermediate,225000.0
+Lexington Park,MD,Intermediate,275000.0
+Colorado Springs,CO,Senior,123000.0
+Seattle,WA,Senior,139250.0
+McLean,VA,Intermediate,225000.0
+McLean,VA,Intermediate,225000.0
+Chicago,IL,Intermediate,550000.0
+Mount Pleasant,TX,Intermediate,110000.0
+New York,NY,Senior,230000.0
+Phoenix,AZ,Senior,114410.4
+Phoenix,AZ,Senior,105996.8
+Irving,TX,Senior,174800.0
+Greenville,SC,Intermediate,75000.0
+Farmington Hills,MI,Intermediate,100000.0
+Wilmington,NC,Senior,135000.0
+Phoenix,AZ,Intermediate,145000.0
+New York,NY,Senior,293335.0
+Pittsburgh,PA,Senior,171550.0
+Englewood,CO,Intermediate,106000.0
+Miami,FL,Intermediate,127500.0
+Redwood City,CA,Senior,244250.0
+San Francisco,CA,Intermediate,164500.0
+New York,NY,Senior,110000.0
+Purchase,NY,Senior,113925.0
+Atlanta,GA,Senior,122000.0
+Portland,ME,Intermediate,156000.0
+Miami,FL,Senior,151000.0
+Irvine,CA,Intermediate,125050.0
+Chantilly,VA,Senior,175000.0
+Chantilly,VA,Intermediate,160000.0
+New York,NY,Senior,146000.0
+West Chester,PA,Intermediate,70000.0
+Cincinnati,OH,Senior,121500.0
+Redmond,WA,Junior,75500.0
+Columbus,OH,Senior,119700.0
+Dallas,TX,Senior,102500.0
+Golden,CO,Intermediate,125750.0
+Austin,TX,Senior,188432.5
+San Jose,CA,Senior,448500.0
+Minneapolis,MN,Intermediate,151873.5
+Los Angeles,CA,Intermediate,108850.0
+Ashburn,VA,Senior,149675.0
+Foster City,CA,Senior,221150.0
+Raleigh,NC,Senior,120000.0
+Ashburn,VA,Senior,237275.0
+Austin,TX,Senior,149675.0
+Atlanta,GA,Senior,159125.0
+Brea,CA,Intermediate,104243.5
+Denver,CO,Senior,159125.0
+New York,NY,Intermediate,68550.0
+Menlo Park,CA,Intermediate,61000.0
+San Jose,CA,Senior,200000.0
+Los Angeles,CA,Senior,140050.0
+New York,NY,Senior,221150.0
+Memphis,TN,Intermediate,119550.0
+Brooklyn,OH,Intermediate,132000.0
+Mount Laurel,NJ,Senior,160992.0
+Pensacola,FL,Senior,127337.5
+Vienna,VA,Intermediate,93887.5
+Mount Laurel,NJ,Senior,160992.0
+San Jose,CA,Senior,225000.0
+Boise,ID,Intermediate,95000.0
+Los Angeles,CA,Senior,196000.0
+Winchester,VA,Intermediate,93887.5
+Pensacola,FL,Intermediate,93887.5
+New York,NY,Senior,174000.0
+Atlanta,GA,Senior,112850.0
+Vienna,VA,Senior,127337.5
+Vienna,VA,Senior,163900.0
